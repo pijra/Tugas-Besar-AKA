@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1735476409 source:c:\users\izzra\onedrive\documents\smt3\tp strukdat\aka\aka.cpp
+	"aka.h"
+
+1735476409 c:\users\izzra\onedrive\documents\smt3\tp strukdat\aka\aka.h
+	<iostream>
+	<string>
+
+1735476512 source:c:\users\izzra\onedrive\documents\smt3\tp strukdat\aka\main.cpp
+	"aka.h"
+	<chrono>
+
